@@ -7,6 +7,19 @@
   pointer-events: none;
 }
 
+
+
+#filmbox{
+box-sizing: border-box;
+
+position: absolute;
+width: 318px;
+height: 47px;
+
+background: #5BA5BC;
+border: 3px solid #000000;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
